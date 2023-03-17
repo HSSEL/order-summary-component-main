@@ -100,5 +100,17 @@ h4{
     font-size: 14px;
      margin-top: 15px;
   }
+  .change:active {
+    color:#9999FF;
+   
+}
+.sec4:active {
+    background-color:#9999FF;
+   
+}
+h5:active {
+    color:hsl(223, 47%, 23%);
+   
+}
  
  
